@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+
+.nav-bar {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.header {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.list-item {
+  list-style-type: none;
+  font-size: 22px;
+  font-family: 'roboto';
+  font-weight: 500;
+  margin-right: 20px;
+}
